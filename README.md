@@ -20,7 +20,7 @@ Queste competenze consentono di affinare le abilità nella programmazione in lin
 
 -------------------
 
-<h3> Inglese 🇬🇧</h3>
+<h3> English 🇬🇧</h3>
 
 Get_next_line is a programming project in the C language that aims to develop a function capable of reading a line from a file or standard input. The function is useful for subsequent projects as an alternative to readline.
 
